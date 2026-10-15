@@ -19,7 +19,7 @@
     <PackageReference Include="Microsoft.SemanticKernel" Version="1.65.0" />
     <PackageReference Include="Microsoft.SemanticKernel.Plugins.Memory" Version="1.44.0-alpha" />
     <PackageReference Include="NAudio" Version="2.2.1" />
-    <PackageReference Include="SixLabors.ImageSharp" Version="3.1.11" />
+    <PackageReference Include="SixLabors.ImageSharp" Version="4.1.2" />
     <PackageReference Include="Spectre.Console" Version="0.50.0" />
     <PackageReference Include="Spectre.Console.ImageSharp" Version="0.50.0" />
     <PackageReference Include="Whisper.net" Version="1.8.1" />
